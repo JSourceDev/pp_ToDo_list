@@ -39,7 +39,8 @@ This project helps you add, complete, and delete tasks — great for learning ba
    ```bash
    git clone https://github.com/your-username/todo-list.git
    
-   open index.html or just drag it into your browser.
+   
+open index.html or just drag it into your browser.
 
    
 🙋‍♀️ Author
